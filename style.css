@@ -1,0 +1,190 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 3px solid black;
+  margin: 10px;
+  border-radius: 3px;
+}
+
+.headerTitle {
+  padding-left: 5px;
+}
+
+.headerTitle a {
+  text-decoration: none;
+  color: black;
+}
+
+.headerList {
+  display: flex;
+  list-style: none;
+}
+
+.headerList li {
+  font-size: 22px;
+  cursor: pointer;
+}
+
+.headerListBtn {
+  border-right: 2px solid black;
+  padding: 10px;
+}
+
+.contactBtn {
+  padding: 10px;
+}
+
+.liveDate {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 20px;
+}
+
+.mainContainer {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  text-align: center;
+  font-size: xx-large;
+  padding-bottom: 10px;
+}
+
+.listSection {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 50px;
+}
+
+.bookListContainer {
+  border: 2px solid black;
+  border-radius: 3px;
+  width: 50%;
+}
+
+.formContainer {
+  justify-content: center;
+  flex-direction: column;
+  gap: 15px;
+  padding-bottom: 20px;
+  padding-top: 25px;
+  width: 35%;
+  display: none;
+}
+
+.removeBtn {
+  margin-top: 10px;
+  cursor: pointer;
+  padding: 5px;
+  border-radius: 3px;
+  font-size: medium;
+  background: none;
+  border: 3px solid #000;
+  box-shadow: 3px 3px 3px black;
+}
+
+.formBtn {
+  cursor: pointer;
+  padding: 5px;
+  border-radius: 3px;
+  font-size: medium;
+  align-self: flex-end;
+  background: none;
+  border: 3px solid #000;
+  box-shadow: 3px 3px 3px black;
+}
+
+.bookListItems {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  padding: 0 10px 5px 10px;
+}
+
+.bookListItems:nth-child(odd) {
+  background: lightgray;
+}
+
+.bookList {
+  font-size: larger;
+}
+
+input {
+  height: 35px;
+  padding: 0 8px;
+  border: 3px solid black;
+}
+
+button {
+  width: 90px;
+}
+
+.underline {
+  width: 20%;
+  height: 3px;
+  background: #000;
+  margin-top: 40px;
+}
+
+.formTitle {
+  text-align: center;
+  font-size: xx-large;
+}
+
+.contactTitle {
+  text-align: center;
+  font-size: xx-large;
+  padding-bottom: 10px;
+}
+
+.contactSection {
+  font-size: large;
+  font-weight: bold;
+  gap: 25px;
+  display: none;
+}
+
+.contactDetail {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid black;
+  margin: 0 12px 10px 12px;
+  border-radius: 3px;
+  padding: 5px 15px;
+  width: 93%;
+}
+
+.show {
+  display: flex;
+  flex-direction: column;
+}
+
+/* listBtn:active */
