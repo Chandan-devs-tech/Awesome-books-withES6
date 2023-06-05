@@ -62,7 +62,7 @@ This project is created using JavaScript Classes, DOM and Use ES6 modules to wri
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](https://chandan-devs-tech.github.io/Awesome-books-withES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -160,6 +160,6 @@ I would like to thank [Microverse](https://www.microverse.org/go)
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT]() licensed.
+This project is [MIT](https://github.com/Chandan-devs-tech/Awesome-books-withES6/blob/feature/modules/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
