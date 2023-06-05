@@ -32,7 +32,7 @@
 
 # 📖 [AWESOME BOOKS WITH ES6] <a name="about-project"></a>
 
-**[Awesome books: with ES6]** is a simple project which is made using JavaScript and it is adding, removing and storing the books into the local storage of the browser.
+**[Awesome books: with ES6]** is a simple project which is made using JavaScript and it is adding, removing and storing the books into the local storage of the browser and Use ES6 modules to write modular JavaScript.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -43,7 +43,7 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-This project is created using JavaScript objects and DOM.
+This project is created using JavaScript Classes, DOM and Use ES6 modules to write modular JavaScript.
 
 <!-- Features -->
 
@@ -52,6 +52,9 @@ This project is created using JavaScript objects and DOM.
 - **[Adding Book]**
 - **[Removing Book]**
 - **[Storing the list of books in local storage]**
+- **[Use ES6 modules to write modular JavaScript]**
+- **[Understand improvements that ES6 brings to JavaScript]**
+- **[Use npm as software packages system]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
