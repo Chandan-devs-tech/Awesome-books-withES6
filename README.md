@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Awesome Books</b></h3>
+  <h1><b>Awesome books: with ES6</b></h1>
 
 </div>
 
@@ -30,9 +30,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [AWESOME BOOKS] <a name="about-project"></a>
+# 📖 [AWESOME BOOKS WITH ES6] <a name="about-project"></a>
 
-**[Awesome Books]** is a simple project which is made using JavaScript and it is adding, removing and storing the books into the local storage of the browser.
+**[Awesome books: with ES6]** is a simple project which is made using JavaScript and it is adding, removing and storing the books into the local storage of the browser.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -59,7 +59,7 @@ This project is created using JavaScript objects and DOM.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://chandan-devs-tech.github.io/Awesome-books/)
+- [Live Demo Link]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -83,14 +83,14 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 - cd Desktop
-- git clone https://github.com/Chandan-devs-tech/Awesome-books.git
+- git clone https://github.com/Chandan-devs-tech/Awesome-books-withES6.git
 
 ### Install
 
 Install this project with:
 
 ```sh
-  cd Awesome-Books
+  cd Awesome-books-withES6
   npm install
 ```
 
@@ -117,19 +117,13 @@ I have deployed this project using: Github pages
 - Twitter: [@twitterhandle](https://twitter.com/ChandanGuptaDev)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/chandangupta-devs/)
 
-👤 **Md Mahadi Hasan Rifat**
-
-- GitHub: [@githubhandle](https://github.com/Rifat8080)
-- Twitter: [@twitterhandle](https://twitter.com/mdmahadirifat98)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/md-mahadi-hasan-rifat-8b7851265/)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Awesome books: with ES6]**
+- [ ] **[Awesome books: with ES6 with Webpack]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -139,7 +133,7 @@ I have deployed this project using: Github pages
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Chandan-devs-tech/Awesome-books/issues).
+Feel free to check the [issues page](https://github.com/Chandan-devs-tech/Awesome-books-withES6/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -163,6 +157,6 @@ I would like to thank [Microverse](https://www.microverse.org/go)
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Chandan-devs-tech/Awesome-books/blob/feature/withObjects/MIT.md) licensed.
+This project is [MIT]() licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
